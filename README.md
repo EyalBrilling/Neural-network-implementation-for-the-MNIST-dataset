@@ -12,4 +12,4 @@ The Neural network is composed of 4 parts.
 
 the most probable number guess from the neural network is taken as the chosen tag.
 
-<p align="center"><img src="https://github.com/EyalBrilling/Neural-network-implementation-for-the-MNIST-dataset/blob/master/NN_PNG/NN_PNG.pdf" width="400" height="400" /></p>
+<p align="center"><img src="https://github.com/EyalBrilling/Neural-network-implementation-for-the-MNIST-dataset/blob/master/NN_PNG/NN_PNG.png" width="400" height="400" /></p>
