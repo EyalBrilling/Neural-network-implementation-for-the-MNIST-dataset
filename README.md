@@ -1,4 +1,4 @@
-# Neural-network-implementation-for-the-MNIST-dataset
+# Neural network classifier implementation for the MNIST-dataset
 Neural network implementation, labeling numbers handwritten pictures from 0 to 9 
 
 
