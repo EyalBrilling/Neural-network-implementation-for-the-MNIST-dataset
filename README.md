@@ -11,3 +11,5 @@ The Neural network is composed of 4 parts.
 *****The output layer***** - 10 neurons corresponding to 10 tags (0-9) calculated by taking the second hidden layer output and activating the softMax function on it.
 
 the most probable number guess from the neural network is taken as the chosen tag.
+
+<p align="center"><img src="https://github.com/EyalBrilling/Neural-network-implementation-for-the-MNIST-dataset/blob/master/NN_PNG/NN_PNG.pdf" width="400" height="400" /></p>
